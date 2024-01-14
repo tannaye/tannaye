@@ -48,4 +48,4 @@ As a multi-disciplinary software engineer, I've demonstrated a track record of d
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajman01&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="tannaye" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tannaye&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="tannaye" />
